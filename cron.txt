@@ -1,0 +1,1 @@
+0 16 * * * cd C:\Users\peter\Downloads\AlgoTools-master && python3 commit_bot.py
